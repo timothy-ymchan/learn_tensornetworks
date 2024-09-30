@@ -1,4 +1,7 @@
-# Tensor Network Methods for Extracting CFT Data from Fixed-Point Tensors and Defect Coarse Graining
+
+# README of the original repository
+Repository link: https://github.com/fangzhangmnm/TRGCFT_publish/tree/main
+## Tensor Network Methods for Extracting CFT Data from Fixed-Point Tensors and Defect Coarse Graining
 
 arxiv link: <https://arxiv.org/abs/2305.09899>
 
