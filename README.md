@@ -1,4 +1,4 @@
-
+# This is a FORKED repository
 # README of the original repository
 Repository link: https://github.com/fangzhangmnm/TRGCFT_publish/tree/main
 ## Tensor Network Methods for Extracting CFT Data from Fixed-Point Tensors and Defect Coarse Graining
